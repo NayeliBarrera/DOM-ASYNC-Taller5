@@ -1,5 +1,4 @@
 # DOM-ASYNC-Taller5
-# dom-async
 # Asincronismo <br>
 FUNDAMENTOS <br>
 <img width="394" alt="image" src="https://github.com/DennisCatana/dom-async/assets/117743828/929af66f-6789-457d-b3cd-9ed9b4fca5af"><br>
